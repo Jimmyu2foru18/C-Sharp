@@ -1,0 +1,88 @@
+        // Code for Section 6.1 - 6.5 of Chapter 6: GUI Controls
+	
+	float amtDue;
+        private void hsbNumOfTickets_ValueChanged(object sender, EventArgs e)
+        {
+            lblNumOfTickets.Text = hsbNumOfTickets.Value.ToString();
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            hsbNumOfTickets.Value = 0;
+            chkMember.CheckState = CheckState.Indeterminate;
+            rdbDefault.Checked = true;
+            lblAmtDue.Text = "";
+        }
+
+        private void TheaterTickets_Load(object sender, EventArgs e)
+        {
+            chkMember.CheckState = CheckState.Indeterminate;
+            rdbDefault.Checked = true;
+        }
+
+        private void btnComputePrice_Click(object sender, EventArgs e)
+        {
+            // Verify that the user selected number of tickets:
+            if (hsbNumOfTickets.Value == 0) 
+            {
+                MessageBox.Show("Please select number of tickets");
+                return;
+            }
+            // Verify that the user selected a section:
+            if (rdbDefault.Checked == true)
+            {
+                MessageBox.Show("Please select the section");
+                return;
+            }
+            // Verify that the user selected membership status:
+            if (chkMember.CheckState == CheckState.Indeterminate)
+            {
+                MessageBox.Show("plese specify membership status");
+                return;
+            }
+
+            // Get number of tickets
+            int numOfTickets = hsbNumOfTickets.Value; 
+            // Get discount            
+            float discount = 0;
+            GetDiscount(ref discount);
+            // Get unitPrice
+            float unitPrice = 0;
+            GetUnitPrice(ref unitPrice);
+
+            amtDue = numOfTickets * (unitPrice - discount);
+            lblAmtDue.Text = amtDue.ToString("$#,###.00");
+        }
+
+        private void GetDiscount(ref float discount)
+        {
+            switch (chkMember.CheckState)
+            {
+                case CheckState.Checked: //or, case 0
+                    discount = 20;
+                    break;
+                case CheckState.Unchecked: //or, case 1
+                    discount = 0;
+                    break;
+            }
+        }
+
+        private void GetUnitPrice(ref float unitPrice)
+        {
+            if (rdbSec1.Checked == true)
+            {
+                unitPrice = 70;
+            }
+            else if (rdbSec2.Checked == true)
+            {
+                unitPrice = 60;
+            }
+            else if (rdbSec3.Checked == true)
+            {
+                unitPrice = 52;
+            }
+            else if (rdbSec4.Checked == true)
+            {
+                unitPrice = 45;
+            }
+        }

@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_8_Exercise_8_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE635E6F-ACB3-4F0A-A773-2D3237FF8443}|Ch_8_Exercise_8_1.csproj|c:\\users\\jimmy\\desktop\\visual studio workspace c#\\ch_8_exercise_8_1\\processorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE635E6F-ACB3-4F0A-A773-2D3237FF8443}|Ch_8_Exercise_8_1.csproj|solutionrelative:processorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE635E6F-ACB3-4F0A-A773-2D3237FF8443}|Ch_8_Exercise_8_1.csproj|C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_8_Exercise_8_1\\processorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE635E6F-ACB3-4F0A-A773-2D3237FF8443}|Ch_8_Exercise_8_1.csproj|solutionrelative:processorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE635E6F-ACB3-4F0A-A773-2D3237FF8443}|Ch_8_Exercise_8_1.csproj|C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_8_Exercise_8_1\\processorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE635E6F-ACB3-4F0A-A773-2D3237FF8443}|Ch_8_Exercise_8_1.csproj|solutionrelative:processorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_8_Exercise_8_1\\ProcessOrderForm.cs",
+              "RelativeDocumentMoniker": "ProcessOrderForm.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_8_Exercise_8_1\\ProcessOrderForm.cs",
+              "RelativeToolTip": "ProcessOrderForm.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBsAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:50:53.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessOrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_8_Exercise_8_1\\ProcessOrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "ProcessOrderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_8_Exercise_8_1\\ProcessOrderForm.Designer.cs",
+              "RelativeToolTip": "ProcessOrderForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:50:17.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_8_Exercise_8_1\\ProcessOrderForm.cs",
+              "RelativeDocumentMoniker": "ProcessOrderForm.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_8_Exercise_8_1\\ProcessOrderForm.cs [Design]",
+              "RelativeToolTip": "ProcessOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:48:24.033Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

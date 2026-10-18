@@ -1,0 +1,1 @@
+C:\csharpTextBookPhilip\Project_Starts\Ch6_GUIcontrols\bin\Debug\Ch6_GUIcontrols.exe.config

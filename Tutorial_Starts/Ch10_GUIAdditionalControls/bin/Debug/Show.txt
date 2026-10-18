@@ -1,0 +1,7 @@
+101,Mamma Mia,75
+102,Rock of Ages,60
+103,Les Miserables,70
+104,Motown The Musical,65
+105,The Lion King,90 
+108,The Phantom of the Opera,80
+107,Pippin,75

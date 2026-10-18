@@ -1,0 +1,10 @@
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\bin\Debug\Ch_13_Exercise 13_3.exe.config
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\bin\Debug\Ch_13_Exercise 13_3.exe
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\bin\Debug\Ch_13_Exercise 13_3.pdb
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\obj\Debug\Ch_13_Exercise 13_3.csproj.AssemblyReference.cache
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\obj\Debug\Ch_13_Exercise_13_3.Ch_13_Car.resources
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\obj\Debug\Ch_13_Exercise_13_3.Properties.Resources.resources
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\obj\Debug\Ch_13_Exercise 13_3.csproj.GenerateResource.cache
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\obj\Debug\Ch_13_Exercise 13_3.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\obj\Debug\Ch_13_Exercise 13_3.exe
+C:\Users\jimmy\source\repos\Ch_13_Exercise 13_3\obj\Debug\Ch_13_Exercise 13_3.pdb

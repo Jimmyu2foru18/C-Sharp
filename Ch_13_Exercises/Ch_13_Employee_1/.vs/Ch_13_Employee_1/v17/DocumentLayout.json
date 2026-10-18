@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{547E3F50-04BA-430F-BCC5-E443642ED35B}|Ch_13_Employee_1.csproj|C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547E3F50-04BA-430F-BCC5-E443642ED35B}|Ch_13_Employee_1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547E3F50-04BA-430F-BCC5-E443642ED35B}|Ch_13_Employee_1.csproj|C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\ch_13_payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547E3F50-04BA-430F-BCC5-E443642ED35B}|Ch_13_Employee_1.csproj|solutionrelative:ch_13_payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547E3F50-04BA-430F-BCC5-E443642ED35B}|Ch_13_Employee_1.csproj|c:\\users\\jimmy\\desktop\\ch_13_employee_1\\ch_13_payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{547E3F50-04BA-430F-BCC5-E443642ED35B}|Ch_13_Employee_1.csproj|solutionrelative:ch_13_payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547E3F50-04BA-430F-BCC5-E443642ED35B}|Ch_13_Employee_1.csproj|C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\ch_13_payroll.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547E3F50-04BA-430F-BCC5-E443642ED35B}|Ch_13_Employee_1.csproj|solutionrelative:ch_13_payroll.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ch_13_Payroll.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\Ch_13_Payroll.Designer.cs",
+              "RelativeDocumentMoniker": "Ch_13_Payroll.Designer.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\Ch_13_Payroll.Designer.cs",
+              "RelativeToolTip": "Ch_13_Payroll.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:11:39.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:20:07.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ch_13_Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\Ch_13_Payroll.cs",
+              "RelativeDocumentMoniker": "Ch_13_Payroll.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\Ch_13_Payroll.cs",
+              "RelativeToolTip": "Ch_13_Payroll.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:22:41.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ch_13_Payroll.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\Ch_13_Payroll.cs",
+              "RelativeDocumentMoniker": "Ch_13_Payroll.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Ch_13_Employee_1\\Ch_13_Payroll.cs [Design]",
+              "RelativeToolTip": "Ch_13_Payroll.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:16:16.258Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

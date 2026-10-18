@@ -1,0 +1,10 @@
+1,US Postal Service,Attn:  Supt. Window Services,Madison,WI,53707,(209) 555-1205
+2,National Information Data Ctr,PO Box 96621,Washington,DC,20090,(301) 555-8950
+3,Register of Copyrights,Library Of Congress,Washington,DC,20559,,
+4,Jobtrak,1990 Westwood Blvd Ste 260,Devner,CO,80025,(800) 555-8725
+5,Newbrige Book Clubs,3000 Cindel Drive,Delran,NJ,08370,(800) 555-9980
+6,California Chamber Of Commerce,3255 Ramos Cir,New Haven,CT, 6555,(916) 555-6670,
+7,Towne Advertiser's Mailing Svcs,Kevin Minder,Santa Ana,CA,92704,,
+8,BFI Industries,PO Box 9369,Seattle,WA,98792,(209) 555-1551
+9,Philip,Box 52001,Richmond,WV,25152,(209) 555-6081
+10,Robbins Mobile Lock And Key,4669 N Fresno,Portland,OR,97726,(209) 555-9375

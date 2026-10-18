@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_6_Ecercises_6_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{254E386F-FE04-4F17-90BE-5B1D7BA7F91C}|Ch_6_Ecercises_6_2.csproj|c:\\users\\jimmy\\desktop\\visual studio workspace c#\\ch_6_ecercises_6_2\\ch_6_event_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{254E386F-FE04-4F17-90BE-5B1D7BA7F91C}|Ch_6_Ecercises_6_2.csproj|solutionrelative:ch_6_event_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254E386F-FE04-4F17-90BE-5B1D7BA7F91C}|Ch_6_Ecercises_6_2.csproj|C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_6_Ecercises_6_2\\ch_6_event_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254E386F-FE04-4F17-90BE-5B1D7BA7F91C}|Ch_6_Ecercises_6_2.csproj|solutionrelative:ch_6_event_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254E386F-FE04-4F17-90BE-5B1D7BA7F91C}|Ch_6_Ecercises_6_2.csproj|C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_6_Ecercises_6_2\\ch_6_event_registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254E386F-FE04-4F17-90BE-5B1D7BA7F91C}|Ch_6_Ecercises_6_2.csproj|solutionrelative:ch_6_event_registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ch_6_Event_Registration.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_6_Ecercises_6_2\\Ch_6_Event_Registration.cs",
+              "RelativeDocumentMoniker": "Ch_6_Event_Registration.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_6_Ecercises_6_2\\Ch_6_Event_Registration.cs",
+              "RelativeToolTip": "Ch_6_Event_Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T08:27:35.621Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ch_6_Event_Registration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_6_Ecercises_6_2\\Ch_6_Event_Registration.Designer.cs",
+              "RelativeDocumentMoniker": "Ch_6_Event_Registration.Designer.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_6_Ecercises_6_2\\Ch_6_Event_Registration.Designer.cs",
+              "RelativeToolTip": "Ch_6_Event_Registration.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T08:24:44.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ch_6_Event_Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_6_Ecercises_6_2\\Ch_6_Event_Registration.cs",
+              "RelativeDocumentMoniker": "Ch_6_Event_Registration.cs",
+              "ToolTip": "C:\\Users\\jimmy\\Desktop\\Visual Studio Workspace C#\\Ch_6_Ecercises_6_2\\Ch_6_Event_Registration.cs [Design]",
+              "RelativeToolTip": "Ch_6_Event_Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T08:24:40.218Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

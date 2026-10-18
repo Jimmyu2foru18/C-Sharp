@@ -1,0 +1,34 @@
+C:\Philip\csharp\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe.config
+C:\Philip\csharp\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe
+C:\Philip\csharp\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.pdb
+C:\Philip\csharp\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.csprojResolveAssemblyReference.cache
+C:\Philip\csharp\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.Properties.Resources.resources
+C:\Philip\csharp\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.csproj.GenerateResource.Cache
+C:\Philip\csharp\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.exe
+C:\Philip\csharp\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.pdb
+C:\Philip\csharp\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.IceCreamTotalDataTypes.resources
+C:\Philip\csharp\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.UserNameString.resources
+C:\Philip\csharp\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.GraduationDate.resources
+C:\Philip\Bus 201\Fall 2014\C#Projects_D2L\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe.config
+C:\Philip\Bus 201\Fall 2014\C#Projects_D2L\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.exe
+C:\Philip\Bus 201\Fall 2014\C#Projects_D2L\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.pdb
+C:\Philip\Bus 201\Fall 2014\C#Project_Starts\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe.config
+C:\Philip\Bus 201\Fall 2014\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.exe
+C:\Philip\Bus 201\Fall 2014\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.pdb
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe.config
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.exe
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.pdb
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.pdb
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.csprojResolveAssemblyReference.cache
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.GraduationDate.resources
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.IceCreamTotalDataTypes.resources
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.Properties.Resources.resources
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.UserNameString.resources
+E:\InfoSys201\C#Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.csproj.GenerateResource.Cache
+E:\InfoSys201\Project_Starts\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe.config
+E:\InfoSys201\Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.exe
+E:\InfoSys201\Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.pdb
+C:\Philip\Bus 201\Fall 2014\Project_Starts\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe.config
+C:\Philip\Bus 201\Fall 2014\Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.exe
+C:\Philip\Bus 201\Fall 2014\Project_Starts\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.pdb

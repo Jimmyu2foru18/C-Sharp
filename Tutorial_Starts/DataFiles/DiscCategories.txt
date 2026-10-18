@@ -1,0 +1,4 @@
+Normal, 0
+State, 15
+Business, 10
+Favorite, 20

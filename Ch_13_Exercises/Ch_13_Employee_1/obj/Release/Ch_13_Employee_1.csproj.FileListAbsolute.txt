@@ -1,0 +1,14 @@
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\bin\Release\Ch_13_Employee_1.exe.config
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\bin\Release\Ch_13_Employee_1.exe
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\bin\Release\Ch_13_Employee_1.pdb
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\obj\Release\Ch_13_Employee_1.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\obj\Release\Ch_13_Employee_1.EmployeeForm.resources
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\obj\Release\Ch_13_Employee_1.Properties.Resources.resources
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\obj\Release\Ch_13_Employee_1.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\obj\Release\Ch_13_Employee_1.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\obj\Release\Ch_13_Employee_1.exe
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\obj\Release\Ch_13_Employee_1.pdb
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\bin\Release\Ch_13_Employee_1.exe.manifest
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\bin\Release\Ch_13_Employee_1.application
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\obj\Release\Ch_13_Employee_1.exe.manifest
+C:\Users\jimmy\Desktop\Ch_13_Employee_1\obj\Release\Ch_13_Employee_1.application

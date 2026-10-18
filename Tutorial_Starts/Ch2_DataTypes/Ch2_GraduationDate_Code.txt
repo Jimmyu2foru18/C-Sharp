@@ -1,0 +1,87 @@
+	//Code for Ch2_DataTypes/GraduationDate.cs form
+
+
+       private void btnDisplayGradInfo_Click(object sender, EventArgs e)
+        {
+
+            DateTime gradDate, gradDateTime, gradTime;
+
+            float numberOfDays;
+            
+            //Get date of graduation:
+            gradDate = dtpGradDate.Value;
+            // Get time of graduation:
+            gradTime = dtpGradTime.Value;
+
+            // Format and display current date & time and graduation date:
+            lstDisplay.Items.Clear();
+            lstDisplay.Items.Add("Current Date & Time:    " + DateTime.Now);
+            lstDisplay.Items.Add("Date of graduation:     " + gradDate.ToShortDateString());
+
+            // Display the month & day of graduation:
+            lstDisplay.Items.Add("");
+            lstDisplay.Items.Add("What day is the graduation?         " + gradDate.ToString("dddd"));
+            lstDisplay.Items.Add("What month is it?                   " + gradDate.ToString("MMM"));
+            lstDisplay.Items.Add("What day of the  Month?             " + gradDate.Day);
+
+            //Format and display the time of graduation:
+            lstDisplay.Items.Add("What time?                          " + gradTime.ToLongTimeString());
+
+            // Compute the interval between today's date and graduation date 
+            TimeSpan tsGraduation = (gradDate - DateTime.Today);
+            /* today includes current date, but not current time.
+               You may also use the Subtract() method of DateTime
+               TimeSpan tsGraduation = gradDate.Subtract(DateTime.Today);     */
+            
+            numberOfDays = (float)tsGraduation.Days;
+            // Since graduation date and DateTime.Today both have the same default time (12:00:00),
+            // the remaining hours, minutes and seconds of the difference will be zero.
+            lstDisplay.Items.Add(" ");
+            lstDisplay.Items.Add("How long?");
+            lstDisplay.Items.Add("You have only  " + numberOfDays + " more days to graduate");
+
+            // Computing weeks, months and years:
+            float numberOfWeeks = numberOfDays / 7;
+            float numberOfMonths = ((gradDate.Year - DateTime.Today.Year) * 12) +
+                                                (gradDate.Month - DateTime.Today.Month);
+            float numberOfYears = (float) (numberOfDays / 365.25);
+            // The above calculation of month and year may be imprecise under certain conditions.
+
+            // Display number of weeks, months & years
+            lstDisplay.Items.Add("That is, about  " + numberOfWeeks.ToString("N0") + " more weeks.");
+            lstDisplay.Items.Add("That is, about " + numberOfMonths + " more months.");
+            lstDisplay.Items.Add("That is, over  " + numberOfYears + " year.");
+
+            // Compute the day when the loan is due - Add 60 days to graduation date:
+            lstDisplay.Items.Add("");
+            lstDisplay.Items.Add("When is my loan due? " + gradDate.AddDays(60).ToLongDateString());
+            // To subtract days, use a negative number
+
+            // Combine the date and time and store in a single variable:
+            // Convert graduation time to a TimeSpan and add to date:
+            TimeSpan tsGradTime = gradTime.TimeOfDay;
+            // or,              = new TimeSpan(gradTime.Hour, gradTime.Minute, gradTime.Second);
+            gradDateTime = gradDate.Add(tsGradTime);           
+            lstDisplay.Items.Add("");
+            lstDisplay.Items.Add("Again, graduation date & Time is: " + gradDateTime);
+            
+            // Compute the number of days to graduation, including the fractional part
+            tsGraduation = (gradDateTime - DateTime.Now);  //Now includes current date and time
+            lstDisplay.Items.Add("Just " + tsGraduation.TotalDays.ToString("N") + " more days");
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            //Clear ListBox
+            lstDisplay.Items.Clear();
+
+            //Reset the DateTimePicker for date:
+            dtpGradDate.Value = DateTime.Parse("01/01/1900");
+            // Or,
+            dtpGradDate.Value = new DateTime(1900, 01, 01);
+            //Or, 
+            dtpGradDate.Value = DateTime.Today;
+
+            // Reset the DateTimePicker for Time:
+            dtpGradTime.Value = DateTime.Parse("12:00 AM");
+        }
